@@ -1,0 +1,19 @@
+{
+  "include": [
+    "ai-service"
+  ],
+  "extraPaths": [
+    "ai-service",
+    "ai-service/services",
+    "ai-service/schemas",
+    "ai-service/api"
+  ],
+  "pythonPath": "C:\\Users\\snayo\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "pythonVersion": "3.13",
+  "reportMissingImports": "none",
+  "reportMissingTypeStubs": "none",
+  "reportMissingModuleSource": "none",
+  "reportGeneralTypeIssues": "none",
+  "typeCheckingMode": "off"
+}
+

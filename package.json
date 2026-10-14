@@ -1,0 +1,10 @@
+{
+  "name": "formshift-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FORMShift - Source -> Structure -> Verify (Full Stack Orchestration)",
+  "scripts": {
+    "start": "node start-all.js",
+    "dev": "node start-all.js"
+  }
+}
